@@ -170,7 +170,7 @@ const config: SiteConfig = {
   giscus: {
     repo: 'grothkopp/blog',
     repoId: 'R_kgDORGH-bA',
-    category: 'Giscus',
+    category: 'Announcements',
     categoryId: 'DIC_kwDORGH-bM4C1uig',
     reactionsEnabled: true, // Enable reactions on post itself
   },
